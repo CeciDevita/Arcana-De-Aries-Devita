@@ -17,7 +17,7 @@
 .header{
 	display: flex;
 	justify-content: space-around;
-	background-color: #00000059;
+	background-image: linear-gradient(to bottom, #000000cc, #ffa06270);
 	height: 15vh;
 	width: 100%;
 }
